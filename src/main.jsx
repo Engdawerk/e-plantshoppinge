@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import store from './store.js';
 import { BrowserRouter } from 'react-router-dom'; // Import BrowserRouter
 
-const baseUrl = '/e-plantshoppinge/'; // Replace with your actual base URL
+const baseUrl = '/e-plantshoppinge'; // Replace with your actual base URL
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
